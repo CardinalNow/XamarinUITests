@@ -1,9 +1,9 @@
 ﻿using System.Reflection;
 using System.Runtime.CompilerServices;
-using Android.App;
+using Android.App;  
 
 // Information about this assembly is defined by the following attributes. 
-// Change them to the values specific to your project.
+// Change them to the values specific to your project. Dan
 
 [assembly: AssemblyTitle("UITestBugTest.Droid")]
 [assembly: AssemblyDescription("")]
